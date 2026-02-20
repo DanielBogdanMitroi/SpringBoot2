@@ -1,0 +1,5 @@
+com/danielmitroi/springbootcrud/service/UserService.class
+com/danielmitroi/springbootcrud/SpringbootCrudApplication.class
+com/danielmitroi/springbootcrud/repository/UserRepository.class
+com/danielmitroi/springbootcrud/controller/UserController.class
+com/danielmitroi/springbootcrud/model/User.class
